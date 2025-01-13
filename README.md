@@ -5,6 +5,6 @@ My Name is Muhammad Arham Khan. I am a passionate web developer with expertise i
 
 
 ### My Skills 🔧:
-PHP, Laravel, MySQL, Python, HTML, CSS, JavaScript, Vue.js
+ HTML, CSS, JavaScript, Vue.js, PHP, Laravel, MySQL, Python, Flask
 
 I am constantly learning and exploring new technologies to improve my skill set. Feel free to check out my projects and connect with me!
